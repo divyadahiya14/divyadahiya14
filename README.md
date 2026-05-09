@@ -23,6 +23,8 @@
 
 ## Languages and Tools
 
+## Languages and Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,react,nodejs,express,mongodb,python,java,tailwind,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,react,nodejs,express,mongodb,python,java,spring,tailwind,git,github,aws" />
 </p>
