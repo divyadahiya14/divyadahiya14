@@ -1,16 +1,28 @@
-## Hi there 👋
+ Hi there 👋
+ I am Divya Dahiya
 
-<!--
-**divyadahiya14/divyadahiya14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Interview Buddy
+- 🌱 I’m currently learning aws, Machine Learning, Springboot
+- 💬 Ask me about anything
+- 📫 How to reach me: divyadahiya147@gmail.com
+- 😄 Pronouns: she/her
+- 👯 Already done Projects 1)InterviewPrep, Kind Commute, DSA Visualizer, Interview Buddy
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divya-dahiya-aa03412ba/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/divya_dahiya_004)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:divyadahiya147@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/divya_dahiya14)
+
+
+## Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,react,nodejs,express,mongodb,python,java,tailwind,git,github,aws" />
+</p>
