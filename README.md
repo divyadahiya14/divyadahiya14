@@ -7,8 +7,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: divyadahiya147@gmail.com
 - 😄 Pronouns: she/her
-- 👯 Already done Projects 1)InterviewPrep, Kind Commute, DSA Visualizer, Interview Buddy
-- 
+- 👯 Already done Projects 1)InterviewPrep, Kind Commute, DSA Visualizer, Space shsooter, Job portal
 
  ## Connect with me
 
