@@ -2,7 +2,7 @@
  I am Divya Dahiya
 
 
-- 🔭 I’m currently working on Interview Buddy
+- 🔭 I’m currently working on Interview Buddy and PocketBuddy
 - 🌱 I’m currently learning aws, Machine Learning, Springboot
 - 💬 Ask me about anything
 - 📫 How to reach me: divyadahiya147@gmail.com
